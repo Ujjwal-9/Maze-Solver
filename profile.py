@@ -18,7 +18,6 @@ inputs = [
     # "small",
     # "normal",
     # "braid200",
-    "logo",
     "combo400",
     "braid2k",
     "perfect2k",
